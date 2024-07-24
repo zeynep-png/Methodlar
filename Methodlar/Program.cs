@@ -6,7 +6,7 @@ Lyrics();
 
 static void Lyrics()
 {
-    Console.WriteLine("Ben zaten ger acının tiryakisi olmuşum");
+    Console.WriteLine("Ben zaten her acının tiryakisi olmuşum");
 }
 
 
